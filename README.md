@@ -1,6 +1,6 @@
-<p align="center"><img src="logo.png" alt="discordpy-bot" width="120"></p>
-
 # Discord.py Bot [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/discordpy-bot/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/discordpy-bot)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
+
+<p align="center"><img src="logo.png" alt="discordpy-bot" width="120"></p>
 
 A Discord bot built with discord.py (Python). Includes a cog-based architecture for organizing commands and event handlers.
 
