@@ -1,4 +1,4 @@
-# Discord.py Bot [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/discordpy-bot/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/discordpy-bot)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
+# Discord.py Bot [![Version](https://img.shields.io/badge/version-2.4-5865f2)](https://github.com/stackblaze-templates/discordpy-bot) [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/discordpy-bot/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/discordpy-bot)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 <p align="center"><img src="logo.png" alt="discordpy-bot" width="120"></p>
 
