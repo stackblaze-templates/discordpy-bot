@@ -18,6 +18,14 @@ docker compose up
 
 See the project files for configuration details.
 
+## Security
+
+`DISCORD_TOKEN` is the only secret this bot requires. **You must set this before running in any environment.**
+
+- Store it as an environment variable or in a `.env` file (never commit `.env` to source control — it is already excluded by `.gitignore`)
+- On StackBlaze, set it as an environment variable via the dashboard (`sync: false` keeps it out of the config file)
+- Rotate the token immediately if it is ever exposed
+
 ---
 
 ### Maintained by [StackBlaze](https://stackblaze.com)
